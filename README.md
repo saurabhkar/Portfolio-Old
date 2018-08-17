@@ -1,4 +1,4 @@
 # saurabhkar.github.io
 
 
-Resume portfoilo . Bootstrap Resume site.
+Resume portfolio . Bootstrap Resume site.
